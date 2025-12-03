@@ -4,7 +4,7 @@ Curso GIT Proyecto Final
 
 ## Dscripción corta
 
-Proyecto final en el que a partir de un repositorio se van a realizar una serie de acciones que permitan poner en práctica todo lo aprendido durante el curso.
+En este proyecto final se han realizado algunos cambios al repositorio original, y de esta manera probar las funciones de Git y Github.
 
 ## Autores
 
